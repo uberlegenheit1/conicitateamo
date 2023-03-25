@@ -1,0 +1,60 @@
+/* Estilos para el cuerpo de la página */
+body {
+    background-color: #0a0001;
+    font-family: Arial, sans-serif;
+    color: #f9f3f4;
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilos para el encabezado */
+header {
+    background-color: #51116cf9;
+    text-align: center;
+    padding: 20px;
+}
+
+/* Estilos para el título del encabezado */
+header h1 {
+    margin: 0;
+    font-size: 36px;
+    color: #FFF;
+    text-shadow: 2px 2px 4px #721C24;
+}
+
+/* Estilos para el contenido principal */
+main {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Estilos para las imágenes */
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 50%;
+}
+
+/* Estilos para los párrafos */
+p {
+    font-size: 18px;
+    line-height: 1.5;
+    text-align: justify;
+    margin-bottom: 20px;
+}
+
+/* Estilos para las citas */
+em {
+    font-style: italic;
+}
+
+/* Estilos para el pie de página */
+footer {
+    background-color: #51116cf9;
+    text-align: center;
+    padding: 10px;
+    color: #FFF;
+    font-size: 14px;
+}
